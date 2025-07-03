@@ -97,25 +97,8 @@ Run the project with:
 
 - Using **pip**:
   ```sh
-  python {entrypoint}
+  python app.py
   ```
-
----
-
-### Testing
-
-Vehicle_Number_Plate_Recogntion uses the `{test_framework}` test framework. Run the test suite with:
-
-- Using **npm**:
-  ```sh
-  npm test
-  ```
-
-- Using **pip**:
-  ```sh
-  pytest
-  ```
-
 ---
 
 ⬆︎ [Return to Top](#vehicle_number_plate_recogntion)
